@@ -118,7 +118,7 @@ h1 {
   margin-bottom: 2rem;
 }
 
-@media only screen and (max-width: 314px) {
+@media only screen and (max-width: 515px) {
   .text {
     visibility: collapse;
   }
